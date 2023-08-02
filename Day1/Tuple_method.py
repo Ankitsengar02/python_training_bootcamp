@@ -1,0 +1,12 @@
+#implement the method of Tuple
+tup1=(1,2,3,4)
+tup2=(1,"hi",3.0)
+print(tup1)
+print(tup2)
+print(tup1.count(1))
+print(tup1.index(2))
+print(max(tup1))
+print(min(tup1))
+print(len(tup1))
+N_tup=(tup2,tup1)
+print(N_tup)
